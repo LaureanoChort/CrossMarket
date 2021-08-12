@@ -1,0 +1,70 @@
+{
+	"status": "success",
+	"products": [{
+			"id": 1,
+			"title": "Kettlebell 16kg",
+			"price": 4599,
+			"image": "images/product1.jpg"
+		},
+		{
+			"id": 2,
+			"title": "Bumper de Color",
+			"price": 3999,
+			"image": "images/product2.jpg"
+		},
+		{
+			"id": 3,
+			"title": "Mancuerna Hexagonal",
+			"price": 5540,
+			"image": "images/product3.jpeg"
+		},
+		{
+			"id": 4,
+			"title": "Barra Olimpica 20kg",
+			"price": 30000,
+			"image": "images/product4.jpg"
+		},
+		{
+			"id": 5,
+			"title": "Super Ball 9kg",
+			"price": 3499,
+			"image": "images/product5.jpeg"
+		},
+		{
+			"id": 6,
+			"title": "Soga Rogue",
+			"price": 2799,
+			"image": "images/product6.jpg"
+		},
+		{
+			"id": 7,
+			"title": "Anillas Gimnasticas",
+			"price": 5199,
+			"image": "images/product7.jpg"
+		},
+		{
+			"id": 8,
+			"title": "Chaleco Carrier 9kg",
+			"price": 7500,
+			"image": "images/product8.jpg"
+		},
+		{
+			"id": 9,
+			"title": "Cajon Pliométrico Rogue",
+			"price": 6750,
+			"image": "images/product9.jpg"
+		},
+		{
+			"id": 10,
+			"title": "Banda de Asistencia",
+			"price": 1099,
+			"image": "images/product10.jpg"
+		},
+		{
+			"id": 11,
+			"title": "Colchoneta MIR",
+			"price": 2000,
+			"image": "images/product11.jpg"
+		}
+	]
+}
